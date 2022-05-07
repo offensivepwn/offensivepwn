@@ -4,4 +4,16 @@
 
 I am a information security enthusiast and cyber security researcher hailing from the wonderfull country of <img src="https://www.pngplay.com/wp-content/uploads/10/India-Flag-PNG-Photo-Image.png" width="18"/> <b>India</b></p>
 
+📊 **This week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+OSINT / Recon / Hacking  5 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.46 %
+Offensive Security   4 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.15 %
+Automation         1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+```
+
+<!--END_SECTION:waka-->
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=offensivepwn&show_icons=true&theme=gotham" alt="Aabhishek" />

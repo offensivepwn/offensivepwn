@@ -8,10 +8,10 @@ I am a information security enthusiast and cyber security researcher hailing fro
 <!--START_SECTION:waka-->
 
 ```text
-OSINT / Recon / Hacking  5 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.46 %
-Offensive Security   4 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.15 %
-Automation         1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+OSINT / Recon / Hacking       5 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.46 %
+Offensive Security            4 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.15 %
+Automation                    1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Other                         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
